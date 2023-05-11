@@ -37,6 +37,7 @@ for nonce in range(1000):
         "origin": "https://www.aliyundrive.com",
         "referer": "https://www.aliyundrive.com/",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41",
+        "content-type": "text/html;charset=UTF-8",
         "x-canary": "client=web,app=adrive,version=v3.17.0",
         "x-device-id": deviceId,
         "x-signature": signature,
